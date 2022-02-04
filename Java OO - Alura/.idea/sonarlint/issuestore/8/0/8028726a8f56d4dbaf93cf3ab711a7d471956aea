@@ -1,0 +1,21 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "R".(οΨ¨·
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ϋΏΨ
+T
+java:S1659
+">Declare "D" and all following declarations on a separate line.(ώσ•‘
+<
+java:S1481
+"&Remove this unused "R" local variable.(ώσ•‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(φΡ«
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒΎΠ§όÿÿÿÿ
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώσ•‘
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώσ•‘
+f	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ώσ•‘
+0
+java:S1220""Move this file to a named package.

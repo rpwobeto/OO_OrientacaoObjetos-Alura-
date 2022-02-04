@@ -1,0 +1,12 @@
+
+N
+java:S1854"9Remove this useless assignment to local variable "idade".(µû0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«ËÜÜÿÿÿÿÿ
+?
+java:S1481"*Remove this unused "idade" local variable.(µû0
+P	java:S125"<This block of commented-out lines of code should be removed.(¼Ï½]
+A
+java:S1481	"+Remove this unused "idades" local variable.(Üö©
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ê›Ì‹şÿÿÿÿ8Ãı²®ë/
+0
+java:S1220""Move this file to a named package.
